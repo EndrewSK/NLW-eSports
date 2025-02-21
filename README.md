@@ -50,7 +50,6 @@ git clone https://github.com/EndrewSK/NLW-eSports.git
 # Enter the project folder through Windows Explorer
 
 # And double click on index.html to open in browser
-
 ```
 
 ---
@@ -72,8 +71,7 @@ git clone https://github.com/EndrewSK/NLW-eSports.git
 ### 📄 Project structure
 ```bash
 📦 nlwesports
-│-- 📂 assets     # Images
-│-- 📂 .github    # Preview image
+│-- 📂 assets/     # Images
 │-- 📄 index.html # Main page
 │-- 📄 style.css  # Style file
 │-- 📄 README.md  # Documentation
