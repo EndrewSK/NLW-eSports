@@ -42,9 +42,10 @@ Before starting, make sure you have installed:
 - An up-to-date browser (Google Chrome, Firefox, Edge, etc.)
 
 ### Installation steps:
+- Download project [Here](https://github.com/EndrewSK/Divination-game/archive/refs/heads/main.zip)
 ```sh
 # Clone the repository via command prompt (cmd)
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/EndrewSK/NLW-eSports.git
 
 # Enter the project folder through Windows Explorer
 
