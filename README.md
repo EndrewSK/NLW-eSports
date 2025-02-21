@@ -1,7 +1,7 @@
 # 📌 NLW eSports
 > NLW eSports is an interactive portfolio project that displays information about the user’s favorite games, streamers they follow, and their social media accounts. The website was developed using HTML, CSS, and animations to create a dynamic experience.
 ---
-| *Tilha explorer* - [🔗 Page Here](https://endrewsk.github.io/NLW/) |
+| *Tilha explorer* - [🔗 Page Here](https://endrewsk.github.io/NLW-eSports/) |
 
 ![preview](./.github/Preview.png)
 
@@ -42,7 +42,7 @@ Before starting, make sure you have installed:
 - An up-to-date browser (Google Chrome, Firefox, Edge, etc.)
 
 ### Installation steps:
-- Download project [Here](https://github.com/EndrewSK/Divination-game/archive/refs/heads/main.zip)
+- Download project [Here](https://github.com/EndrewSK/NLW-eSports/archive/refs/heads/main.zip)
 ```sh
 # Clone the repository via command prompt (cmd)
 git clone https://github.com/EndrewSK/NLW-eSports.git
