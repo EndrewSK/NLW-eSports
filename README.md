@@ -3,7 +3,7 @@
 ---
 | *Tilha explorer* - [🔗 Page Here](https://endrewsk.github.io/NLW-eSports/) |
 
-![preview](./.github/Preview.png)
+![preview](./assets/preview.png)
 
 ### 📖 Index
 - [📌 Project Name](#-nlw-esports)
