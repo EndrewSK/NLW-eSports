@@ -13,7 +13,7 @@
 - [▶️ How to Use](#️-how-to-use)
 - [📄 Project Structure](#-project-structure)
 - [🤝 Contribution](#-contribution)
-- [📝 [License](#-license)
+- [📝 License](#-license)
 
 ---
 
